@@ -1,17 +1,17 @@
 export default function Square() {
   return(
     <>
-    <div>
+    <div class="board-row">
       <button className="square">X</button> 
       <button className="square">X</button>
       <button className="square">X</button> 
     </div>
-      <div>
+      <div class="board-row">
       <button className="square">X</button> 
       <button className="square">X</button>
       <button className="square">X</button> 
     </div>
-      <div>
+      <div class="board-row">
       <button className="square">X</button> 
       <button className="square">X</button>
       <button className="square">X</button> 
